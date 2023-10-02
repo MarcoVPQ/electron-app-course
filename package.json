@@ -1,0 +1,23 @@
+{
+  "name": "electron-app-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoVPQ/electron-app-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoVPQ/electron-app-course/issues"
+  },
+  "homepage": "https://github.com/MarcoVPQ/electron-app-course#readme",
+  "dependencies": {
+    "electron": "^26.2.4",
+    "electron-window-state": "^5.0.3"
+  }
+}
